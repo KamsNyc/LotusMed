@@ -94,7 +94,7 @@ const About = () => {
 
       {/* COPYRIGHT */}
       <div className="absolute left-1/2 bottom-2 translate-x-[-50%]">
-        <p className="text-[15px] text-[#fff] font-[400] text-center z-40">
+        <p className="text-[12px] text-[#fff] font-[400] text-center z-40">
           Copyright © 2024 Lotus Med Innovation LLC.<br/> All Rights Reserved.
         </p>
       </div>
