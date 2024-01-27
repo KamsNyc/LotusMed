@@ -29,7 +29,7 @@ export default function Home() {
 
   //return
   return (
-    <main className="w-full h-screen bg-[#170B3B]">
+    <main className="w-full h-screen bg-[#100823]">
       {showSecondVideo ? (
         <SecondVideo onVideoEnd={handleSecondVideoEnd} />
       ) : (
