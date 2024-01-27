@@ -13,7 +13,7 @@ const page = () => {
 
 
   return (
-    <section className='h-screen w-full'>
+    <section className='h-screen w-full bg-[#100823]'>
     {/* NAVBAR */}
     <Navbar />
 
