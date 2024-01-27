@@ -31,7 +31,7 @@ const About = () => {
   }, []);
 
   return (
-    <section className="relative h-screen w-full overflow-y-hidden">
+    <section className="relative md:h-screen w-full md:overflow-y-hidden">
       {/* Background GIF */}
       <Image
         className="w-full h-full opacity-[60%] z-0"
