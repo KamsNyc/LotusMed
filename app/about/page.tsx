@@ -21,7 +21,7 @@ const About = () => {
       {/* CONTENT 1 */}
       <section className=' max-h-[300px] pb-7 '>
       <h3 className='text-[21px] font-[300] text-white  py-4'>ABOUT US</h3>
-      <p className='text-[15px] font-[300] text-white pb-6'>Lotus Med Innovation is an India-focused boutique investment firm. The group possesses strong international ties in New York, Los Angeles, London, Africa, and Asia. The elite team of specialists is committed to creating cross-border alliances as a self-governing, relationship-driven company. We facilitate access to foreign groups in the rapidly expanding Indian market and help Indian companies invest in international markets. We support foreign investors and funds in setting up niche Indian investment opportunities. We streamline the production, distribution, joint venture, and licensing processes to allow global firms to enter the Indian market with ease and full control.</p>
+      <p className='text-[15px] font-[300] text-white pb-6'>Lotus Med Innovation is an India-focused boutique investment firm. The group possesses strong international ties in New York, Los Angeles, London, Africa, and Asia. The distinguished team is committed to creating cross-border alliances as a self-governing, relationship-driven company. We facilitate access to foreign groups in the rapidly expanding Indian market and help Indian companies invest in international markets. We support foreign investors and funds in setting up niche Indian investment opportunities. We streamline the production, distribution, joint venture, and licensing processes to allow global firms to enter the Indian market with ease and full control.</p>
 
 <h3 className='text-[21px] font-[300] text-white  py-4'>GLOBAL MISSION
 </h3>
